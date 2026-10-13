@@ -1,0 +1,6 @@
+/*
+Theme Name: Cerlab Prototype — Twenty Twenty-Five Child
+Template: twentytwentyfive
+Version: 0.1.0
+Description: Block theme reconstruction for a local video-method prototype.
+*/

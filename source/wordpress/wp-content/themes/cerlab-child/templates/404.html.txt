@@ -1,0 +1,5 @@
+<!-- wp:template-part {"slug":"header","tagName":"div"} /-->
+<!-- wp:group {"tagName":"main","className":"page-content"} -->
+<main class="wp-block-group page-content"><!-- wp:heading {"level":1} --><h1 class="wp-block-heading">404</h1><!-- /wp:heading --><!-- wp:paragraph --><p>Эта страница не найдена. Вернитесь на главную или выберите категорию в меню.</p><!-- /wp:paragraph --></main>
+<!-- /wp:group -->
+<!-- wp:template-part {"slug":"footer","tagName":"div"} /-->

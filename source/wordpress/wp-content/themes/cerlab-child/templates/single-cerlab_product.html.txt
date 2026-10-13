@@ -1,0 +1,6 @@
+<!-- wp:template-part {"slug":"header","tagName":"div"} /-->
+<!-- wp:group {"tagName":"main","className":"page-content"} -->
+<main class="wp-block-group page-content"><!-- wp:cerlab/product /--><!-- wp:post-content /--></main>
+<!-- /wp:group -->
+<!-- wp:cerlab/enquiry /-->
+<!-- wp:template-part {"slug":"footer","tagName":"div"} /-->

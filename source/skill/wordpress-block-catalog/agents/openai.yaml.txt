@@ -1,0 +1,4 @@
+interface:
+  display_name: "WordPress: блочный каталог"
+  short_description: "Каталог на дочерней теме, GreenShift и плагине товаров"
+  default_prompt: "Используй $wordpress-block-catalog, чтобы создать редактируемый каталог на WordPress по этому макету или референсу."

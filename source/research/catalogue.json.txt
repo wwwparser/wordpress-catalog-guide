@@ -1,0 +1,229 @@
+{
+  "reference": "https://cer-lab.ru/",
+  "categories": [
+    {
+      "slug": "stoleshnitsy",
+      "name": "Столешницы",
+      "image": "stoleshnicafoto.png",
+      "source": "https://cer-lab.ru/category/stoleshnitsy/",
+      "products": [
+        "https://cer-lab.ru/product/awake-2/",
+        "https://cer-lab.ru/product/vulcano-2/",
+        "https://cer-lab.ru/product/burgundy-2/",
+        "https://cer-lab.ru/product/amazzonia-2/",
+        "https://cer-lab.ru/product/alaska-2/",
+        "https://cer-lab.ru/product/umber-2/",
+        "https://cer-lab.ru/product/trance-2/",
+        "https://cer-lab.ru/product/somnia-2/",
+        "https://cer-lab.ru/product/sabbia-2/",
+        "https://cer-lab.ru/product/neural-2/",
+        "https://cer-lab.ru/product/nebbia-2/",
+        "https://cer-lab.ru/product/marmorio-2/",
+        "https://cer-lab.ru/product/laurent-2/",
+        "https://cer-lab.ru/product/kelya-2/",
+        "https://cer-lab.ru/product/grigio-2/",
+        "https://cer-lab.ru/product/grafite-2/",
+        "https://cer-lab.ru/product/daze-2/",
+        "https://cer-lab.ru/product/calacatta-oro-venato/",
+        "https://cer-lab.ru/product/calacatta-michelangelo/",
+        "https://cer-lab.ru/product/statuario-venato/",
+        "https://cer-lab.ru/product/taj-mahal/",
+        "https://cer-lab.ru/product/rapolano/",
+        "https://cer-lab.ru/product/pietra-di-gre-fine/",
+        "https://cer-lab.ru/product/pietra-di-gre/",
+        "https://cer-lab.ru/product/perlino-rosa/",
+        "https://cer-lab.ru/product/perlino-bianco/",
+        "https://cer-lab.ru/product/mont-blanc/",
+        "https://cer-lab.ru/product/marfil/"
+      ]
+    },
+    {
+      "slug": "indukcionnye-stoleshnicy",
+      "name": "Индукция",
+      "image": "indukcija-.png",
+      "source": "https://cer-lab.ru/category/indukcionnye-stoleshnicy/",
+      "products": []
+    },
+    {
+      "slug": "mebel-dlja-kuhni",
+      "name": "Персонифицированная мебель",
+      "image": "personificirovannaja-mebel.png",
+      "source": "https://cer-lab.ru/category/mebel-dlja-kuhni/",
+      "products": []
+    },
+    {
+      "slug": "stoleshnicy-s-podsvetkoj",
+      "name": "Столешницы с подсветкой",
+      "image": "stoleshnicys-podstvetkoj.png",
+      "source": "https://cer-lab.ru/category/stoleshnicy-s-podsvetkoj/",
+      "products": []
+    },
+    {
+      "slug": "fasady",
+      "name": "Фасады",
+      "image": "fasady.png",
+      "source": "https://cer-lab.ru/category/fasady/",
+      "products": [
+        "https://cer-lab.ru/product/grano/",
+        "https://cer-lab.ru/product/sunset/",
+        "https://cer-lab.ru/product/ocean/",
+        "https://cer-lab.ru/product/moss/",
+        "https://cer-lab.ru/product/mauve/",
+        "https://cer-lab.ru/product/harvest/",
+        "https://cer-lab.ru/product/canyon/",
+        "https://cer-lab.ru/product/vulcano/",
+        "https://cer-lab.ru/product/verderame/",
+        "https://cer-lab.ru/product/travertino-silver-rain/",
+        "https://cer-lab.ru/product/travertino-noce-rain/",
+        "https://cer-lab.ru/product/travertino-bianco-rain/",
+        "https://cer-lab.ru/product/travertino-beige-rain/",
+        "https://cer-lab.ru/product/pelle/",
+        "https://cer-lab.ru/product/oro/",
+        "https://cer-lab.ru/product/or/",
+        "https://cer-lab.ru/product/muschio/",
+        "https://cer-lab.ru/product/luce/",
+        "https://cer-lab.ru/product/liquorice/",
+        "https://cer-lab.ru/product/ghisa/",
+        "https://cer-lab.ru/product/macchia-vecchia-rain/",
+        "https://cer-lab.ru/product/cristallo-gold-rain/",
+        "https://cer-lab.ru/product/calacatta-black-rain/",
+        "https://cer-lab.ru/product/burgundy/",
+        "https://cer-lab.ru/product/argento/",
+        "https://cer-lab.ru/product/amazzonia/",
+        "https://cer-lab.ru/product/alaska/",
+        "https://cer-lab.ru/product/acero/",
+        "https://cer-lab.ru/product/umber/",
+        "https://cer-lab.ru/product/trance/",
+        "https://cer-lab.ru/product/somnia/",
+        "https://cer-lab.ru/product/sabbia/",
+        "https://cer-lab.ru/product/neural/",
+        "https://cer-lab.ru/product/nebbia/",
+        "https://cer-lab.ru/product/marmorio/",
+        "https://cer-lab.ru/product/laurent/",
+        "https://cer-lab.ru/product/kelya/",
+        "https://cer-lab.ru/product/grigio/",
+        "https://cer-lab.ru/product/grafite/",
+        "https://cer-lab.ru/product/daze/",
+        "https://cer-lab.ru/product/awake/",
+        "https://cer-lab.ru/product/versilia-gold/",
+        "https://cer-lab.ru/product/onyx-pearl/",
+        "https://cer-lab.ru/product/dorado-glamour/",
+        "https://cer-lab.ru/product/calacatta-supreme/"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "slug": "rapolano",
+      "name": "Rapolano",
+      "image": "rapolano-1.webp",
+      "gallery": [
+        "rapolano-2-scaled.webp"
+      ],
+      "description": "Rapolano Типы поверхности: Рельефная Размеры: 3000 x 1200 *Фотография не отображает в полной мере рисунок и цветовую палитру всей плиты. Допустима вариабельность оттенков, размера включений и узора жил.",
+      "source": "https://cer-lab.ru/product/rapolano/",
+      "categories": [
+        "stoleshnitsy"
+      ],
+      "group": "new"
+    },
+    {
+      "slug": "pietra-di-gre-fine",
+      "name": "Pietra Di Gre Fine",
+      "image": "pietra-di-gre-fine-1.webp",
+      "gallery": [
+        "pietra-di-gre-fine-2-scaled.webp"
+      ],
+      "description": "Pietra Di Gre Fine Типы поверхности: Рельефная Размеры: 3000 x 1200 *Фотография не отображает в полной мере рисунок и цветовую палитру всей плиты. Допустима вариабельность оттенков, размера включений и узора жил.",
+      "source": "https://cer-lab.ru/product/pietra-di-gre-fine/",
+      "categories": [
+        "stoleshnitsy"
+      ],
+      "group": "new"
+    },
+    {
+      "slug": "perlino-bianco",
+      "name": "Perlino Bianco",
+      "image": "perlino-bianco-1.webp",
+      "gallery": [
+        "perlino-bianco-2-scaled.webp"
+      ],
+      "description": "Perlino Bianco Типы поверхности: Рельефная Размеры: 3000 x 1200 *Фотография не отображает в полной мере рисунок и цветовую палитру всей плиты. Допустима вариабельность оттенков, размера включений и узора жил.",
+      "source": "https://cer-lab.ru/product/perlino-bianco/",
+      "categories": [
+        "stoleshnitsy"
+      ],
+      "group": "new"
+    },
+    {
+      "slug": "mont-blanc",
+      "name": "Mont Blanc",
+      "image": "mont-blanc-1.webp",
+      "gallery": [
+        "mont-blanc-2-scaled.webp"
+      ],
+      "description": "Mont Blanc Типы поверхности: Рельефная Размеры: 3000 x 1200 *Фотография не отображает в полной мере рисунок и цветовую палитру всей плиты. Допустима вариабельность оттенков, размера включений и узора жил.",
+      "source": "https://cer-lab.ru/product/mont-blanc/",
+      "categories": [
+        "stoleshnitsy"
+      ],
+      "group": "new"
+    },
+    {
+      "slug": "vulcano",
+      "name": "Vulcano",
+      "image": "vulcano-2.webp",
+      "gallery": [
+        "vulcano-1-scaled.webp"
+      ],
+      "description": "Vulcano Типы поверхности: Рельефная Размеры: 3000 x 1000 *Фотография не отображает в полной мере рисунок и цветовую палитру всей плиты. Допустима вариабельность оттенков, размера включений и узора жил.",
+      "source": "https://cer-lab.ru/product/vulcano/",
+      "categories": [
+        "fasady"
+      ],
+      "group": "popular"
+    },
+    {
+      "slug": "or",
+      "name": "Or",
+      "image": "or-2.webp",
+      "gallery": [
+        "laminam-or-chernaja-1-scaled.png"
+      ],
+      "description": "Or Типы поверхности: Матовая Размеры: 3000 x 1000 *Фотография не отображает в полной мере рисунок и цветовую палитру всей плиты. Допустима вариабельность оттенков, размера включений и узора жил.",
+      "source": "https://cer-lab.ru/product/or/",
+      "categories": [
+        "fasady"
+      ],
+      "group": "popular"
+    },
+    {
+      "slug": "macchia-vecchia-rain",
+      "name": "Macchia Vecchia Rain",
+      "image": "macchia-vecchia-rain-1.webp",
+      "gallery": [
+        "laminam_cristallo_macchia_vecchia_rain_slonovaja_kost-1-scaled.png"
+      ],
+      "description": "Macchia Vecchia Rain Типы поверхности: Ребристая Размеры: 3000 x 1200 *Фотография не отображает в полной мере рисунок и цветовую палитру всей плиты. Допустима вариабельность оттенков, размера включений и узора жил.",
+      "source": "https://cer-lab.ru/product/macchia-vecchia-rain/",
+      "categories": [
+        "fasady"
+      ],
+      "group": "popular"
+    },
+    {
+      "slug": "acero",
+      "name": "Acero",
+      "image": "acero-2.webp",
+      "gallery": [
+        "acero-1-scaled.webp"
+      ],
+      "description": "Acero Типы поверхности: Матовая Размеры: 3000 x 1000 *Фотография не отображает в полной мере рисунок и цветовую палитру всей плиты. Допустима вариабельность оттенков, размера включений и узора жил.",
+      "source": "https://cer-lab.ru/product/acero/",
+      "categories": [
+        "fasady"
+      ],
+      "group": "popular"
+    }
+  ]
+}

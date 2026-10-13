@@ -1,0 +1,86 @@
+{
+  "wordpress": {
+    "version": "7.1.3",
+    "block_theme": true,
+    "parent": "twentytwentyfive",
+    "products": "8",
+    "categories": "5",
+    "home_id": "4",
+    "test_leads": 0,
+    "greenshift": true,
+    "roles": [
+      "administrator"
+    ],
+    "can_read": true,
+    "can_edit": true
+  },
+  "routes": {
+    "passed": 17,
+    "missing_page": 404,
+    "private_files_blocked": true
+  },
+  "form": {
+    "saved_to_database": true,
+    "invalid_nonce_rejected": true,
+    "consent_required": true
+  },
+  "responsive": {
+    "widths": [
+      1440,
+      990,
+      768,
+      390
+    ],
+    "overflow": false,
+    "images_loaded": true,
+    "mobile_menu": true
+  },
+  "product": {
+    "specifications": true,
+    "gallery": true
+  },
+  "editor": {
+    "valid_blocks": [
+      {
+        "name": "greenshift-blocks/element",
+        "valid": true
+      },
+      {
+        "name": "core/html",
+        "valid": true
+      },
+      {
+        "name": "greenshift-blocks/element",
+        "valid": true
+      },
+      {
+        "name": "greenshift-blocks/element",
+        "valid": true
+      },
+      {
+        "name": "core/html",
+        "valid": true
+      },
+      {
+        "name": "core/html",
+        "valid": true
+      },
+      {
+        "name": "core/shortcode",
+        "valid": true
+      },
+      {
+        "name": "core/shortcode",
+        "valid": true
+      },
+      {
+        "name": "core/shortcode",
+        "valid": true
+      }
+    ],
+    "greenshift_blocks_present": true,
+    "greenshift_edit_saved_and_rendered": true,
+    "product_edit_persists_and_renders": true
+  },
+  "browser_errors": []
+}

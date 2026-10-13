@@ -1,0 +1,11 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "appearanceTools": true,
+    "layout": {"contentSize": "1820px", "wideSize": "1820px"},
+    "color": {"palette": [{"slug": "base", "color": "#000000", "name": "Чёрный"}, {"slug": "contrast", "color": "#ffffff", "name": "Белый"}, {"slug": "accent", "color": "#da6656", "name": "Терракота"}]},
+    "typography": {"fontFamilies": [{"slug": "onest", "name": "Onest", "fontFamily": "Onest, Arial, sans-serif"}]}
+  },
+  "styles": {"color": {"background": "#000000", "text": "#ffffff"}, "typography": {"fontFamily": "Onest, Arial, sans-serif", "fontSize": "16px"}, "spacing": {"blockGap": "0px", "padding": {"top": "0px", "bottom": "0px", "left": "0px", "right": "0px"}}}
+}
