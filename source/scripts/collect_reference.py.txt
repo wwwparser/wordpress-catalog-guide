@@ -20,7 +20,7 @@ def asset(url):
     manifest.append({'file': name, 'source': url, 'sha256': hashlib.sha256(data).hexdigest(), 'bytes': len(data)})
     return name
 
-home = BeautifulSoup((ROOT / 'research/reference.html').read_text(encoding='utf-8'), 'html.parser')
+home = BeautifulSoup(client.get('https://cer-lab.ru/', ROOT / 'research/reference.html'), 'html.parser')
 categories = []
 seen = set()
 for a in home.select('a[href]'):
